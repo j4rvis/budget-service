@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "postgres",
+            "dialect": "PostgreSQL",
+            "name": "Local Doco",
+            "password": "example",
+            "port": 5432,
+            "server": "localhost",
+            "username": "postgres"
+        }
+    ]
+}
